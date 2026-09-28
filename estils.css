@@ -13,3 +13,7 @@ a:hover{
     color: red;
 
 }
+#leng:last-child, #leng:first-child{
+    background-color: yellow;
+
+}
