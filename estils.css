@@ -1,0 +1,15 @@
+h1{
+    background-color: cyan;
+
+}
+h2{
+    background-color:rgb(81, 255, 0);
+}
+
+.nombre::before, .nombre::after{
+    content: "✨";
+}
+a:hover{
+    color: red;
+
+}
