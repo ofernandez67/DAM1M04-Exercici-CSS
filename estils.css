@@ -9,11 +9,28 @@ h2{
 .nombre::before, .nombre::after{
     content: "✨";
 }
+
+a {
+color: blue;
+}
+
 a:hover{
     color: red;
 
 }
-#leng:last-child, #leng:first-child{
-    background-color: yellow;
 
+#leng {
+border: 2px solid black;
+}
+
+#proj > li {
+font-weight: bold;
+}
+
+#leng li:first-child {
+background-color: yellow;
+}
+
+#leng li:last-child {
+background-color: orange;
 }
