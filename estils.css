@@ -34,3 +34,8 @@ background-color: yellow;
 #leng li:last-child {
 background-color: orange;
 }
+
+
+p {
+    font-family: "Montserrat", sans-serif;
+}
